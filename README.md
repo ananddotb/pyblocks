@@ -1,2 +1,2 @@
 # pyblocks
-A  things Python
+All things Python
